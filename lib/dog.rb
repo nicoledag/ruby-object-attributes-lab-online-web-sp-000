@@ -9,3 +9,5 @@ def initialize(name)
    @name
  end
 end
+
+fido = Dog.new
